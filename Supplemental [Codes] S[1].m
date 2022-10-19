@@ -1,7 +1,7 @@
 %% Time Series Data Processing and Classification Experiment
 % clc;
 % clear;
-% DATA = load('synthetic control chart dataset.data');
+% DATA = load('Supplemental [Data sets] S[1].data');
 % Ex=mean(DATA,2);
 % XY=repmat(Ex,1,60);
 % En=mean(sqrt(pi/2).*abs(DATA-XY),2);
